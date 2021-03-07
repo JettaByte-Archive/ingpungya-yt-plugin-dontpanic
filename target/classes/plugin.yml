@@ -1,0 +1,8 @@
+name: DONTPANIC
+version: 1.0
+main: ingpungya.Main.Main
+api-version: 1.16
+prefix: [ RP ]
+authors: [ ingpungya ]
+description: Dont-Panic
+website: lcsw.ga
